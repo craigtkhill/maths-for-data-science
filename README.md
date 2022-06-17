@@ -1,9 +1,9 @@
-# Khan Academy
+# Mathematics for Data Science
 
-As I work through problems on Khan Academy, I like to test my understanding by implementing the mathematical concepts in code.
+As I work through problems, I like to test my understanding by implementing the mathematical concepts in code.
 
 ## Currently Working on
-- Statistics and Probability
+1. Essential Math for Data Science
 ## Languages
 - Python (Jupyter notebook)
 ## Libraries
